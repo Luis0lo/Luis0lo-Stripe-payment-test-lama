@@ -1,6 +1,6 @@
 ## Purpose
 
-Test if Strip payment is successfull after setting up API from Lama tutorial
+Test if Stripe payment is successfull after setting up API from Lama tutorial
 
 ## Steps
 
